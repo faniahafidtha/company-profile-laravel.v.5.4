@@ -13,84 +13,85 @@
 	<title>Contact Us | Company Profile</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-  <a class="navbar-brand" href="#"><strong>WEB DEVELOPER</strong></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="http://127.0.0.1:8000/index">HOME</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link ml-3" href="http://127.0.0.1:8000/about_us">ABOUT US</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="http://127.0.0.1:8000/ourservice">OUR SERVICE</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="http://127.0.0.1:8000/portofolio">PORTOFOLIO</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="http://127.0.0.1:8000/contactus">CONTACT US</a>
-      </li>
-    </ul>
-  </div>
-  </div>
-</nav>
-<br>
-<br>
-<br>
-
-<div class="bg-white">
-  <div class="text-center">
-  <img src="/img/cu.png">
-  </div>
-  <br>
-  <br>
-<div class="bg-white">
-<div class="container">
-    <div class="row text-center">
-      <div class="col-md-6">
-        <br>
-        <br>
-        <h5>Hubungi Kami</h5>
-        <br>
-        <p><img src="/img/whatsapp.png"> 081234567890</p>
-        <br>
-        <br>
-        <p><img src="/img/instagram.png"> @webdeveloper</p>
-        <br>
-        <br>
-        <p><img src="/img/telegram.png"> @webdev</p>
-      </div>
-       <div class="col-md-5">
-        <br>
-      <br>
-        <h5>Tulis Pesan Anda</h5>
-        <br>
-        <input type="text" name="" class="form-control" placeholder="Nama">
-        <br>
-        <input type="text" name="" class="form-control" placeholder="No Handphone">
-        <br>
-        <input type="email" name="" class="form-control" placeholder="Email">
-        <br>
-        <textarea type="text" name="" class="form-control" rows="5" placeholder="Pesan"></textarea>
-        <br>
-        <button type="submit" class="btn btn-primary">Kirim Pesan</button>
+        <a class="navbar-brand" href="#"><strong>WEB DEVELOPER</strong></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
         </button>
-       </div>
+        
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="http://127.0.0.1:8000/index">HOME</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link ml-3" href="http://127.0.0.1:8000/about_us">ABOUT US</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="http://127.0.0.1:8000/ourservice">OUR SERVICE</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="http://127.0.0.1:8000/portofolio">PORTOFOLIO</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="http://127.0.0.1:8000/contactus">CONTACT US</a>
+              </li>
+          </ul>
+        </div>
+      </div>
+  </nav>
+  <br>
+  <br>
+  <br>
+
+  <div class="bg-white">
+      <div class="text-center">
+        <img src="/img/cu.png">
+      </div>
+      <br>
+      <br>
+    <div class="bg-white">
+      <div class="container">
+          <div class="row text-center">
+            <div class="col-md-6">
+                <br>
+                <br>
+                <h5>Hubungi Kami</h5>
+                <br>
+                <p><img src="/img/whatsapp.png"> 081234567890</p>
+                <br>
+                <br>
+                <p><img src="/img/instagram.png"> @webdeveloper</p>
+                <br>
+                <br>
+                <p><img src="/img/telegram.png"> @webdev</p>
+            </div>
+            <div class="col-md-5">
+              <br>
+              <br>
+                <h5>Tulis Pesan Anda</h5>
+                <br>
+                <input type="text" name="" class="form-control" placeholder="Nama">
+                <br>
+                <input type="text" name="" class="form-control" placeholder="No Handphone">
+                <br>
+                <input type="email" name="" class="form-control" placeholder="Email">
+                <br>
+                <textarea type="text" name="" class="form-control" rows="5" placeholder="Pesan"></textarea>
+                <br>
+                <button type="submit" class="btn btn-primary">Kirim Pesan</button>
+                </button>
+            </div>
+          </div>
+        </div>
     </div>
   </div>
-</div>
-</div>
-<br>
-<br>
+  <br>
+  <br>
 </body >
-<div class='copyright text-center' style="padding-bottom: 80px;">
- Copyright &copy 2020 <a href='http://127.0.0.1:8000/index'>Web Developer</a><br/>
-</a>
-</div>
+  <div class='copyright text-center' style="padding-bottom: 80px;">
+    Copyright &copy 2020 <a href='http://127.0.0.1:8000/index'>Web Developer</a><br/>
+    </a>
+  </div>
 </html>
