@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <link rel="stylesheet" type="text/css" href="/css/style.css">
-<link rel="stylesheet" href="fontawesome/css/fontawesome.min.css" />
-<!-- <style>
-.copyright{
-margin-bottom: 50px;
-border:1px solid black;
-/*height: 100px;*/
-}
-</style> -->
+<link rel="stylesheet" href="fontawesome/css/fontawesome.min.css"/>
+
 <html lang="en">
 <head>
 <!-- Required meta tags -->
