@@ -20,3 +20,6 @@ Route::resource('about_us','AboutUsController');
 Route::resource('ourservice','OurServiceController');
 Route::resource('portofolio','PortofolioController');
 Route::resource('contactus','ContactUsController');
+Route::resource('tb_home','TbHomeController');
+
+

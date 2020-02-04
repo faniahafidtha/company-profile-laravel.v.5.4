@@ -44,9 +44,9 @@
 	</nav>
 
 	<div class="jumbotron">
-		<h1 class="display-4">Buat Website Anda Sekarang!</h1>
+		<h1 class="display-4" name="title_banner">Buat Website Anda Sekarang!</h1>
 		<hr class="my-4">
-		<p class="lead">Jasa pembuatan website dengan harga terjangkau.</p>
+		<p class="lead" name="description">Jasa pembuatan website dengan harga terjangkau.</p>
 		<a class="btn btn-primary" href="#" role="button">Buat sekarang</a>
 	</div>
 
