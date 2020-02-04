@@ -21,7 +21,7 @@
 		<div class="form-group">
 		<label class="col-md-4 text-right">Banner (Min.3 MB)</label>
 		<div class="col-md-8">
-			<input type="file" name="banner">
+			<input type="file" name="file">
 			 <img src="{{ URL::to('/') }}/banner/{{ $data->file }}" class="img-thumbnail" width="100">
 			<input type="hidden" name="hidden_image" value="{{ $data->file }}">
 		</div>

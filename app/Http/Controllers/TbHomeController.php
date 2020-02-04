@@ -64,6 +64,7 @@ class TbHomeController extends Controller
     {
         $data = tb_home::findOrFail($id);
         $data->title_banner = $request->input('title_banner'); 
+
         if (empty($request->file('file'))){
             $data->file = $data->file;
         }
@@ -74,7 +75,7 @@ class TbHomeController extends Controller
             $file = $request->file('file');
             $ext = $file->getClientOriginalExtension();
             $newName = rand(100000,1001238912).".".$ext;
-            $file->move('file',$newName);
+            $file->move('banner',$newName);
             $data->file = $newName;
         }
         $data->description = $request->input('description'); 
@@ -85,7 +86,7 @@ class TbHomeController extends Controller
     public function destroy($id){
     // hapus file
     $tb_home = tb_home::where('id',$id)->first();
-    File::delete('banner/'.$tb_home->file);
+    File::delete('banner'.$tb_home->file);
  
     // hapus data
     tb_home::where('id',$id)->delete();
