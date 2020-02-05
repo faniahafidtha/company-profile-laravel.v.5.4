@@ -60,7 +60,6 @@
 			</select>
 		</div>
 	</div>
-
 	<br><br><br>
 
 	<div class="form-group text-center">
@@ -70,6 +69,3 @@
 </form>
 
 @endsection
-
-
-
