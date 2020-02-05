@@ -5,7 +5,7 @@
 <div align="right">
 	<a href="{{ route('tb_home.create') }}" class="btn btn-success">Add New</a>
 </div>
-<br />
+<br>
 @if ($message = Session::get('success'))
 <div class="alert alert-success">
 	<p>{{ $message }}</p>
@@ -31,14 +31,12 @@
 			<td>
 				
 					<form action="{{ route('tb_home.destroy', $row->id) }}" method="post">
-					{{ csrf_field() }}
-					{{ method_field('DELETE') }}
-					<button type="submit" class="btn btn-danger">Delete</button>
-					<a href="{{ route('tb_home.show', $row->id) }}" class="btn btn-primary">Show</a>
-					<a href="{{ route('tb_home.edit', $row->id) }}" class="btn btn-warning">Edit</a>
-					
-					
-				</form>
+						{{ csrf_field() }}
+						{{ method_field('DELETE') }}
+						<button type="submit" class="btn btn-danger">Delete</button>
+						<a href="{{ route('tb_home.show', $row->id) }}" class="btn btn-primary">Show</a>
+						<a href="{{ route('tb_home.edit', $row->id) }}" class="btn btn-warning">Edit</a>
+					</form>
 			</td>
 		</tr>
 	@endforeach

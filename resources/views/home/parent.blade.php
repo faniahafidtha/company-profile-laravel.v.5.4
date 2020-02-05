@@ -9,9 +9,9 @@
 	</head>
 	<body>
 		<div class="container">    
-  			<br />
+  			<br>
   			<h3 align="center">CRUD</h3>
-  			<br />
+  			<br>
   			@yield('main')
   		</div>
 	</body>

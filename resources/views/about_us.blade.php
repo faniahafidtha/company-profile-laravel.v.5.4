@@ -47,28 +47,28 @@
   <br>
   <h3 class="mt-5 text-center">ABOUT US</h3>
   <hr>
-  <div class="bg-light">
-    <div class="container text-justify p-5">
-        <div class="row text-center">
-            <div class="col-md-6">
-            
-                Jaman sekarang sangat banyak diluar sana bertebaran baik perorangan atau perusahaan yang bisa membuatkan sebuah website dan sebagainya, tapi yang perlu Anda perhatikan adalah dalam memilih jasa Digital Marketing Agency/Developer yang dimana telah teruji memiliki tingkat fokus yang tinggi dibidang Digital Marketing Agency. Semua agar bisa dijadikan pertimbangan untuk masa akan datang, karena akan berdampak positif demi kelanjutan website usaha anda dalam jangka waktu yang panjang.
-                <br>
-                <br>
-                Jadi mari kita sebagai pengusaha cerdas, menjadikan informasi ini sebagai bahan pertimbangan untuk lebih berhati-hati untuk memilih jasa developer website atau jasa digital marketing agency.
-              </div>
-              <div class="col-md-6">
-                Kami adalah Perusahaan jasa perancang website dan periklanan online profesional yang sudah banyak dipercaya oleh berbagai macam jenis usaha, untuk memudahkan dalam marketing digital agency dan mencoba memberikan hasil yang terbaik. Jaminan kualitas, harga jujur, profesional serta ulet adalah prinsip kami. Jika Anda membutuhkan Jasa Pembuatan Website, Jasa SEO, Iklan Google Adwords, kami solusinya.
-                
-                <br>
-                <br>
-                Hubungi kami :
-                <br>
-                Email : webdevelopergmail.com
-              </div>
-        </div>
+<div class="bg-light">
+  <div class="container text-justify p-5">
+    <div class="row text-center">
+      <div class="col-md-6">
+
+        Jaman sekarang sangat banyak diluar sana bertebaran baik perorangan atau perusahaan yang bisa membuatkan sebuah website dan sebagainya, tapi yang perlu Anda perhatikan adalah dalam memilih jasa Digital Marketing Agency/Developer yang dimana telah teruji memiliki tingkat fokus yang tinggi dibidang Digital Marketing Agency. Semua agar bisa dijadikan pertimbangan untuk masa akan datang, karena akan berdampak positif demi kelanjutan website usaha anda dalam jangka waktu yang panjang.
+        <br>
+        <br>
+        Jadi mari kita sebagai pengusaha cerdas, menjadikan informasi ini sebagai bahan pertimbangan untuk lebih berhati-hati untuk memilih jasa developer website atau jasa digital marketing agency.
+      </div>
+      <div class="col-md-6">
+        Kami adalah Perusahaan jasa perancang website dan periklanan online profesional yang sudah banyak dipercaya oleh berbagai macam jenis usaha, untuk memudahkan dalam marketing digital agency dan mencoba memberikan hasil yang terbaik. Jaminan kualitas, harga jujur, profesional serta ulet adalah prinsip kami. Jika Anda membutuhkan Jasa Pembuatan Website, Jasa SEO, Iklan Google Adwords, kami solusinya.
+
+        <br>
+        <br>
+        Hubungi kami :
+        <br>
+        Email : webdevelopergmail.com
+      </div>
     </div>
   </div>
+</div>
 
   <br>
   <br>
