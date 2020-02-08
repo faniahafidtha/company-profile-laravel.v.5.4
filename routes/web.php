@@ -11,10 +11,10 @@
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-Route::get('/','DashboardController@index');
+Route::get('/', function () {
+     return view('welcome');
+ });
+
 Route::resource('index','DashboardController');
 Route::resource('about_us','AboutUsController');
 Route::resource('ourservice','OurServiceController');
@@ -23,3 +23,8 @@ Route::resource('contactus','ContactUsController');
 Route::resource('tb_home','TbHomeController');
 
 
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');

@@ -8,6 +8,6 @@ class OurServiceController extends Controller
 {
     public function index()
     {
-    return view('ourservice');
+     return view('ourservice');
     }
 }
